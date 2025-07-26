@@ -1,6 +1,6 @@
-# flutter_application_1
+# AquaMind
 
-A new Flutter project.
+A Smart Fish Farm Management Project
 
 ## Getting Started
 
